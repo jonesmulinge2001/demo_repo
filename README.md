@@ -1,2 +1,2 @@
 # This is my first project
-Hello worl
+Hello world. Written by jonathan mulinge
